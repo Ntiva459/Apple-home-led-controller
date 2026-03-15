@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // === Wi-Fi credentials ===
-const char* ssid = "DIGI_458f88";
-const char* password = "5b2eba70";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
 
 // === RGB MOSFET pins ===
 #define PIN_R 25
