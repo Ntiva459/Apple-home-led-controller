@@ -170,17 +170,3 @@ Future upgrades could include:
 • HomeKit scenes support  
 
 ---
-
-# Author
-
-**Tivadar**
-
-DIY Electronics • Smart Home • ESP32 Projects
-
----
-
-# License
-
-MIT License
-
-You are free to use, modify, and distribute this project.
